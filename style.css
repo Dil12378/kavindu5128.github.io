@@ -33,3 +33,13 @@ z-index: 1;}
     color: pink;
     text-decoration: none;
  }
+.suh{ align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: red
+
+}
+.kat {background-color: blue;
+  align-items: center;
+    justify-content: center;
+    display: flex;}
