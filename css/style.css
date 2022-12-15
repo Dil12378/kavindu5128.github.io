@@ -3,6 +3,7 @@ img {
 
     width: 300;
 margin-left: 30;
+    max-width:100%;
 }
 p{margin-left: 30px;}
 .works-img {width: 635px;}
