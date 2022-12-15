@@ -3,13 +3,17 @@ img {
 
     width: 300;
 margin-left: 30;
-    max-width:100%;
+max-width: 100%;
+
 }
 p{margin-left: 30px;}
-.works-img {width: 635px;}
+.works-img {width: 635px;
+}
 .hii{margin-top: 210;}
-.hit{margin-top: 420;}
+.hit{margin-top: 420;
+}
 body {
+
   font-family: 'Roboto Mono', monospace;
     background: chocolate;
 }
@@ -24,6 +28,7 @@ height: 100px;}
 width:20px;}
 .socialiconc{text-align: center;}
 .blockst li{display: inline-block;
+
 }
 .blockst{text-align: center;
 position: fixed;
@@ -34,13 +39,9 @@ z-index: 1;}
     color: pink;
     text-decoration: none;
  }
-.suh{ align-items: center;
-  justify-content: center;
-  display: flex;
-  background-color: red;
 
-}
-.kat {background-color: blue;
-  align-items: center;
-    justify-content: center;
-    display: flex;}
+    .right-col{background: blue;
+      align-items: center;
+       justify-content: center;
+       display: flex;  }
+@media(max-width:700px){section{flex-direction: column;}}
