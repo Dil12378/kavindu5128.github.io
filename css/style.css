@@ -1,7 +1,4 @@
 img {
-    margin-top: 30px;
-
-    width: 300;
 margin-left: 30;
 max-width: 100%;
 
@@ -44,4 +41,8 @@ z-index: 1;}
       align-items: center;
        justify-content: center;
        display: flex;  }
-@media(max-width:700px){section{flex-direction: column;}}
+       @media(min-width:500px){
+img{display: grid;
+  grid-template-columns: 841.5px;
+
+}
