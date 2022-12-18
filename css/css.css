@@ -1,3 +1,5 @@
+@supports (display:grid) {body{margin: 0;
+max-width: inherit;}
 body{margine:0 auto;
 max-width: 100em;}
 .container{display: grid;
