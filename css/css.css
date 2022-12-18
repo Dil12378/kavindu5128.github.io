@@ -5,7 +5,8 @@ max-width: 100em;}
 .container{display: grid;
 grid-template-columns: 1fr 1fr 1fr;
 gap: 10px;
-max-width: 933px;}
+max-width: 933px;
+  grid-template-rows: 1fr 1fr;}
 .container1 {
 
   background: rgba(0,0,255,0.35);
