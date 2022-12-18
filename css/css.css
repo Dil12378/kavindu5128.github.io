@@ -37,11 +37,11 @@ height: 640px;}
 .big-header{font-size: 200px;
   font-family: 'Chivo Mono', monospace;
 }
-@media(min-width:500px){.container1{grid-column-start: 3;
+@media(min-width:730px){.container1{grid-column-start: 3;
     align-self: center;
       position: relative;
       z-index: 100;
       justify-self: end;
       grid-row: 1/2;  }}
-@media(max-width:500px){.container1{grid-column-start: 1;
+@media(max-width:730px){.container1{grid-column-start: 1;
   grid-column-end: 4;}}
