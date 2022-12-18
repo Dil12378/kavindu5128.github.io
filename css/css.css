@@ -47,4 +47,5 @@ max-width: 100%;
       grid-row: 1/2;  }}
 @media(max-width:730px){.container1{grid-column-start: 1;
   grid-column-end: 4;
-  grid-row: 2/3;}}
+  grid-row: 2/3;
+  height: 110px;}}
