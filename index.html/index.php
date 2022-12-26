@@ -28,7 +28,7 @@ mail($TO,$mail_subject,$email_body,$header);
   <head>
     <meta charset="utf-8">
     <title>Email</title>
-<link rel="stylesheet" href="css/css.css">
+
 
   </head>
 <body>
