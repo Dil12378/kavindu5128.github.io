@@ -1,0 +1,12 @@
+.eye-ball{
+animation-name: move;
+animation-duration: 2s;
+animation-iteration-count: infinite;}
+body{background: pink;}
+@keyframes move { 65%{transform:translatex(50px) scale(0.9) }
+40%{transform:translateY(-10px) scale(1.1)}
+
+}
+.eye {
+    width: 300px;
+}
